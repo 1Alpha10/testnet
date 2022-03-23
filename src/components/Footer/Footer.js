@@ -84,9 +84,7 @@ export const Footer = () => {
                     </div>
                 </div>
 
-                <div className="footer__content__paper">
-                    <a href={pdf} target="_blank">BUFF PAPER</a>
-                </div>
+             
             
         </section>
     )
