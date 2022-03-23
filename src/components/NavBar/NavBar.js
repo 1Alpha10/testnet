@@ -64,9 +64,6 @@ export const NavBar = () => {
 
     return (
         <header className={`navBar ${active}`}>
-            <div className="navBar__paper">
-                <a href={pdf} target="_blank"><span>BUFF PAPER</span></a>
-            </div>
 
             <div className="container">
 
