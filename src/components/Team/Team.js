@@ -15,39 +15,39 @@ export const Team = () => {
     const info = [
         {
             image: team1,
-            name: 'dagmus',
+            name: '1',
             role: 'art director',
-            link: 'https://twitter.com/BuffDagmus'
+            link: 'https://twitter.com/'
         },
         {
             image: team2,
-            name: 'samer',
+            name: '2',
             role: 'community manager',
-            link: 'https://twitter.com/BuffSamer'
+            link: 'https://twitter.com/'
         },
         {
             image: team3,
-            name: 'rashid',
+            name: '3',
             role: 'marketing expert',
-            link: 'https://twitter.com/RashidBuff'
+            link: 'https://twitter.com/'
         },
         {
             image: team4,
-            name: 'alpha',
+            name: '4',
             role: 'designer',
-            link: 'https://twitter.com/1Alpha00'
+            link: 'https://twitter.com/'
         },
         {
             image: team5,
-            name: 'naji',
+            name: '5',
             role: 'designer',
-            link: 'https://twitter.com/BuffNaji'
+            link: 'https://twitter.com/'
         },
         {
             image: team6,
-            name: 'monir',
+            name: '6',
             role: 'Community Manager',
-            link: 'https://twitter.com/BuffMonir'
+            link: 'https://twitter.com/'
         },
     ];
 
